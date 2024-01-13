@@ -7,7 +7,7 @@ import me.workshop.util.GCPPropertiesLoader;
 import me.workshop.util.LocalPropertiesLoader;
 
 public class App {
-    static String propertiesFilePath = "/Users/satyaanumolu/POCs/gcp.properties";
+    static String propertiesFilePath = "/Users/user/POCs/gcp.properties";
     static String gcp_secret_props_name = "dev-props";
     public static void main(String[] cliArgs) {
 //        LocalPropertiesLoader props = LocalPropertiesLoader.getInstance(propertiesFilePath);
