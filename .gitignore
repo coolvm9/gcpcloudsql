@@ -56,4 +56,4 @@ ehthumbs.db
 # Linux
 *.swp
 *~
-*.gitcommit
+gitcommit.sh
