@@ -3,3 +3,57 @@
 
 # Ignore Gradle build output directory
 build
+# IntelliJ
+.idea/
+*.iml
+
+# Compiled class file
+target/
+bin/
+out/
+
+# Maven
+log/
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn/timing.properties
+.mvn/wrapper/maven-wrapper.jar
+.mvn/wrapper/maven-wrapper.properties
+
+# Gradle
+build/
+.gradle/
+*.class
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# NetBeans
+nbproject/private/
+
+# BlueJ
+BlueJ extensions folder
+bluej/
+
+# VS Code
+.vscode/
+
+# Mac
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+
+# Linux
+*.swp
+*~
+*.gitcommit
